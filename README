@@ -1,0 +1,9 @@
+The only file you have to run is util.py
+TO run it enter the following command:-
+python3 util.py <image-name>
+Then it outputs two images corresponding to the otsu thresholding and adaptive thresholding of the input-image.
+
+The naming structure of images is as follows:-
+Input-image == x.png
+Otsu thresholded image == xotsu.png
+Adaptive thresholded image == xadaptive.png
